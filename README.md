@@ -8,12 +8,12 @@
   <br><br>
   📍 Hyderabad, Telangana &nbsp;|&nbsp;
   <a href="mailto:adityasai1431@gmail.com">adityasai1431@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-lotti-136122249/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Adityasai1431">GitHub</a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/aditya-kumar-lotti-136122249">
     <img src="https://img.shields.io/badge/-Aditya%20Kumar%20Lotti-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adityasai1431@gmail.com">
