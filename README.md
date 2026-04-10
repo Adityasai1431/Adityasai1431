@@ -1,10 +1,6 @@
 ![Aditya Kumar Lotti](https://raw.githubusercontent.com/Adityasai1431/Adityasai1431/refs/heads/main/header.svg)
 
 <p align="center">
-  <img src="YOUR_ANIMATED_SVG_URL" style="margin-top:-200px"/>
-</p>
-
-<p align="center">
   <b>Data Scientist Aspirant | Python | SQL | Power BI | Full Stack (React · Spring Boot · Node.js)</b>
   <br><br>
   Turning raw data into actionable insights — with a background in building production-grade full-stack applications. <br>
