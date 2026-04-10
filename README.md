@@ -63,69 +63,16 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-### 🎌 [Anime Industry Analytics](https://github.com/YOUR_GITHUB_USERNAME/anime-analytics)
-> Web scraping + EDA on 1,900+ anime records from MyAnimeList
-
-- Scraped data using **BeautifulSoup & Requests**, cleaned with **Pandas & NumPy**
-- Performed univariate, bivariate & multivariate analysis using **Matplotlib & Seaborn**
-- Key finding: TV anime dominates (~59%); higher ratings directly correlate with larger audiences
-- **Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
-
----
-
-### 🏠 [Home Loan Approval Prediction — EDA](https://github.com/YOUR_GITHUB_USERNAME/home-loan-eda)
-> End-to-end exploratory analysis on 614 loan applications across 13 features
-
-- Handled missing values (mode/median imputation), removed inconsistencies, optimized data types
-- Identified **Credit History** as the most significant factor in loan approval
-- Visualized trends with histograms, box plots, heatmaps & count plots
-- **Stack:** Python, Pandas, NumPy, Seaborn, Matplotlib
-
----
-
-### 🎬 [Movie Sales & Performance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/movie-powerbi-dashboard)
-> Interactive Power BI dashboard tracking revenue, ratings & genre performance
-
-- Built KPI cards, scatter plots, slicers, and bar charts for year-wise trend analysis
-- Correlated revenue vs. ratings vs. votes vs. runtime to surface top directors & genres
-- **Stack:** Power BI, DAX, Power Query
-
----
-
-### 🎵 [Music Store Data Analysis — MySQL](https://github.com/YOUR_GITHUB_USERNAME/music-store-sql)
-> Relational database analysis to uncover customer behaviour & sales trends
-
-- Designed schema with primary/foreign keys, constraints, and optimised joins
-- Wrote complex SQL with aggregations, subqueries & window functions
-- **Stack:** MySQL, DBeaver
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Advanced Data Science with Gen AI *(ongoing)* | Innomatics Research Labs |
-| Python for Data Science | Innomatics Research Labs |
-| Exploratory Data Analysis | Innomatics Research Labs |
-| Data Analysis with MySQL | Innomatics Research Labs |
-| Power BI | Innomatics Research Labs |
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityasai1431&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasai1431&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasai1431&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
