@@ -1,4 +1,4 @@
-![Aditya Kumar Lotti]((https://github.com/Adityasai1431/Adityasai1431/blob/main/header.svg))
+![Aditya Kumar Lotti](https://raw.githubusercontent.com/Adityasai1431/Adityasai1431/refs/heads/main/header.svg)
 
 <p align="center">
   <img src="YOUR_ANIMATED_SVG_URL" style="margin-top:-200px"/>
