@@ -19,7 +19,7 @@
   <a href="mailto:adityasai1431@gmail.com">
     <img src="https://img.shields.io/badge/-adityasai1431@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adityasai1431.Aditya1431"/>
 </p>
 
 ---
