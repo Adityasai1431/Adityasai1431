@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:199f9d,100:000000&height=200&section=header&text=Aditya%20Kumar%20Lotti&fontSize=35&fontColor=ffffff)
+![Aditya Kumar Lotti]([https://capsule-render.vercel.app/api?type=waving&color=0:199f9d,100:000000&height=200&section=header&text=%20&fontSize=1](https://github.com/Adityasai1431/Adityasai1431/blob/main/header.svg))
+
+<p align="center">
+  <img src="YOUR_ANIMATED_SVG_URL" style="margin-top:-200px"/>
+</p>
 
 <p align="center">
   <b>Data Scientist Aspirant | Python | SQL | Power BI | Full Stack (React · Spring Boot · Node.js)</b>
@@ -80,4 +84,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:199f9d&height=120&section=footer)
+![Aditya Kumar Lotti](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:199f9d&height=120&section=footer)
